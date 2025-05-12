@@ -1,5 +1,3 @@
-package Employeedetail;
-
 // File: Employee.java
 public class Employee extends Person {
     private String empId;
